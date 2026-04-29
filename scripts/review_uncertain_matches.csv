@@ -4,7 +4,6 @@ food_name,food_name_normalized_tkpi,urt_food_name,food_name_normalized_urt,match
 "Beras jagung putih, kering, mentah",beras jagung putih,,,76.47058823529412
 "Beras menir, mentah",beras menir,,,74.07407407407408
 "Beras tumbuk merah, mentah",beras tumbuk merah,,,70.58823529411764
-Nasi tim,nasi tim,Teri nasi,teri nasi,82.35294117647058
 Nasi jagung,nasi jagung,,,70.58823529411764
 "Sagu singkong, kering",sagu singkong,,,76.19047619047619
 "Ubi jalar manis, segar",ubi jalar manis,,,77.41935483870968
@@ -12,17 +11,11 @@ Nasi jagung,nasi jagung,,,70.58823529411764
 Ubi jalar tinta/ kemayung,ubi jalar tinta kemayung,,,75.0
 "Kacang gude, biji, kering",kacang gude biji,,,71.42857142857143
 "Kacang gude, biji, segar",kacang gude biji,,,71.42857142857143
-"Kacang hitam, kering",kacang hitam,Kacang Hijau,kacang hijau,83.33333333333334
 "Kacang kapri, segar",kacang kapri,,,76.92307692307692
 "Kacang kincai, kering",kacang kincai,,,74.07407407407408
 "Kacang komak, segar",kacang komak,,,75.0
-"Kacang mentega, kering",kacang mentega,Kacang Mete,kacang mete,88.0
-"Kacang merah/ banda, kering",kacang merah banda,Kacang Merah,kacang merah,80.0
-"Kacang merah tua, kering",kacang merah tua,Kacang Merah,kacang merah,85.71428571428572
 Kacang tanah sangan,kacang tanah sangan,,,75.67567567567568
-"Kacang tanah, kering",kacang tanah,Keju Kacang Tanah,keju kacang tanah,82.75862068965517
 "Kacang urei, kering",kacang urei,,,72.72727272727273
-"Alpukat, segar",alpukat,Alpokat,alpokat,85.71428571428572
 "Jeruk banjar, segar",jeruk banjar,,,72.72727272727273
 Jeruk garut-keprok,jeruk garut keprok,,,75.86206896551724
 "Jeruk Kalamansi, segar",jeruk kalamansi,,,76.92307692307692
@@ -34,21 +27,16 @@ Jeruk garut-keprok,jeruk garut keprok,,,75.86206896551724
 "Pisang gapi, segar",pisang gapi,,,76.19047619047619
 "Pisang hijau, segar",pisang hijau,,,72.72727272727273
 "Pisang kayu, segar",pisang kayu,,,76.19047619047619
-"Pisang ketip, segar",pisang ketip,Pisang kepok,pisang kepok,83.33333333333334
 "Pisang kidang, segar",pisang kidang,,,72.0
 "Pisang lampung, segar",pisang lampung,,,76.92307692307692
 "Pisang raja sereh, segar",pisang raja sereh,,,78.57142857142857
 "Pisang rotan, segar",pisang rotan,,,78.26086956521739
 "Pisang talas, segar",pisang talas,,,78.26086956521739
-"Pisang ua, segar",pisang ua,Pisang raja,pisang raja,80.0
 "Rambutan binjai, segar",rambutan binjai,,,72.0
-"Angsa, daging, segar",angsa daging,Daging asap,daging asap,86.95652173913044
-"Ayam, daging, segar",ayam daging,Daging asap,daging asap,81.81818181818181
 "Babi, daging, gemuk,segar",babi daging gemuk,,,78.57142857142857
 "Babi, daging, kurus, segar",babi daging kurus,,,78.57142857142857
 "Babi, ginjal, segar",babi ginjal,,,72.72727272727273
 "Babi, hati, segar",babi hati,,,70.0
-"Belibis, daging, segar",belibis daging,Daging babi,daging babi,80.0
 "Kelinci, daging, segar",kelinci daging,,,71.42857142857143
 "Kuda, daging, segar",kuda daging,,,75.0
 "Sapi, babat, segar",sapi babat,,,73.6842105263158
@@ -59,23 +47,19 @@ Jeruk garut-keprok,jeruk garut keprok,,,75.86206896551724
 "Ikan baung, segar",ikan baung,,,73.6842105263158
 "Ikan belida, segar",ikan belida,,,70.0
 "Ikan biawan, segar",ikan biawan,,,70.0
-"Ikan cakalang, segar",ikan cakalang,Ikan cakalang asin,ikan cakalang asin,83.87096774193549
 "Ikan cakalang, hati, segar",ikan cakalang hati,,,72.22222222222221
 "Ikan cakalang, perut, segar",ikan cakalang perut,,,70.27027027027026
 "Ikan daun, segar",ikan daun,,,77.77777777777779
 "Ikan gabus, segar",ikan gabus,,,73.6842105263158
 "Ikan heu, segar",ikan heu,,,70.58823529411764
 "Ikan hiu, segar",ikan hiu,,,70.58823529411764
-"Ikan kakatua, segar",ikan kakatua,Ikan kakap,ikan kakap,81.81818181818181
 "Ikan kalaban, segar",ikan kalaban,,,72.72727272727273
-"Ikan kapar, segar",ikan kapar,Ikan kakap,ikan kakap,80.0
 "Ikan keru-keru, segar",ikan keru keru,,,72.0
 "Ikan kima, segar",ikan kima,,,73.6842105263158
 "Ikan lais, segar",ikan lais,,,70.0
 "Ikan layur, segar",ikan layur,,,76.19047619047619
 "Ikan lehoma, segar",ikan lehoma,,,72.72727272727273
 "Ikan lidah, segar",ikan lidah,,,73.6842105263158
-"Ikan oci, kembung, segar",ikan oci kembung,Ikan kembung,ikan kembung,85.71428571428572
 "Ikan paling, segar",ikan paling,,,78.26086956521739
 "Ikan patin, segar",ikan patin,,,73.6842105263158
 "Ikan puntin, segar",ikan puntin,,,70.0
@@ -85,20 +69,12 @@ Jeruk garut-keprok,jeruk garut keprok,,,75.86206896551724
 "Ikan sunu, segar",ikan sunu,,,70.0
 "Ikan tarmon, segar",ikan tarmon,,,70.0
 "Ikan telan, segar",ikan telan,,,73.6842105263158
-"Ikan tembang, segar",ikan tembang,Ikan kembung,ikan kembung,83.33333333333334
 "Ikan terbang, segar",ikan terbang,,,76.19047619047619
 "Ikan titang, segar",ikan titang,,,78.26086956521739
-"Ikan turi, segar",ikan turi,Ikan Teri Kering,ikan teri,88.88888888888889
-"Udang galah, segar",udang galah,Udang Basah,udang basah,81.81818181818181
-"Udang, besar, segar",udang besar,Udang Basah,udang basah,81.81818181818181
 "Ikan teri nasi, kering, mentah",ikan teri nasi,,,78.26086956521739
-"Telur ayam kampung, segar",telur ayam kampung,Kuning telur ayam,kuning telur ayam,85.71428571428572
-"Telur ayam ras, segar",telur ayam ras,Telur Ayam,telur ayam,83.33333333333334
 "Telur ayam ras, bagian kuning, segar",telur ayam ras bagian kuning,,,75.55555555555556
 "Telur ayam ras, bagian putih, segar",telur ayam ras bagian putih,,,74.4186046511628
-"Telur bebek alabio, segar",telur bebek alabio,Telur bebek asin,telur bebek asin,82.35294117647058
 "Telur bebek, bagian kuning, segar",telur bebek bagian kuning,,,73.17073170731707
 "Telur bebek, bagian putih, segar",telur bebek bagian putih,,,75.0
 "Telur bebek tambak, segar",telur bebek tambak,,,75.86206896551724
-"Telur penyu, segar",telur penyu,Telur puyuh,telur puyuh,81.81818181818181
 "Telur burung puyuh, segar",telur burung puyuh,,,75.86206896551724

@@ -1,0 +1,69 @@
+food_name,food_name_normalized_tkpi,urt_food_name,food_name_normalized_urt,match_score
+Nasi tim,nasi tim,Teri nasi,teri nasi,82.35294117647058
+Nasi beras merah,nasi beras merah,Nasi Beras Giling Merah,nasi beras merah,100.0
+"Kentang, segar",kentang,Kentang,kentang,100.0
+"Kentang hitam, segar",kentang hitam,Kentang Hitam,kentang hitam,100.0
+"Ubi jalar, kuning, segar",ubi jalar kuning,Ubi Jalar Kuning,ubi jalar kuning,100.0
+"Kacang hijau, kering",kacang hijau,Kacang Hijau,kacang hijau,100.0
+"Kacang hitam, kering",kacang hitam,Kacang Hijau,kacang hijau,83.33333333333334
+"Kacang kedelai, kering",kacang kedelai,Kacang Kedelai,kacang kedelai,100.0
+"Kacang kedelai, segar",kacang kedelai,Kacang Kedelai,kacang kedelai,100.0
+"Kacang mentega, kering",kacang mentega,Kacang Mete,kacang mete,88.0
+"Kacang merah/ banda, kering",kacang merah banda,Kacang Merah,kacang merah,80.0
+"Kacang merah tua, kering",kacang merah tua,Kacang Merah,kacang merah,85.71428571428572
+"Kacang merah, kering",kacang merah,Kacang Merah,kacang merah,100.0
+"Kacang merah, segar",kacang merah,Kacang Merah,kacang merah,100.0
+"Kacang tanah, kering",kacang tanah,Keju Kacang Tanah,keju kacang tanah,82.75862068965517
+Kembang tahu,kembang tahu,Kembang Tahu,kembang tahu,100.0
+Kembang tahu rebus,kembang tahu,Kembang Tahu,kembang tahu,100.0
+"Tahu, mentah",tahu,Tahu,tahu,100.0
+Tahu goreng,tahu,Tahu,tahu,100.0
+"Alpukat, segar",alpukat,Alpokat,alpokat,85.71428571428572
+"Apel malang, segar",apel malang,Apel malang,apel malang,100.0
+"Duku, segar",duku,Duku,duku,100.0
+"Durian, segar",durian,Durian,durian,100.0
+"Jambu air, segar",jambu air,Jambu air,jambu air,100.0
+Jambu biji,jambu biji,Jambu biji,jambu biji,100.0
+"Jambu bol, segar",jambu bol,Jambu bol,jambu bol,100.0
+"Jeruk bali, segar",jeruk bali,Jeruk bali,jeruk bali,100.0
+"Jeruk manis, segar",jeruk manis,Jeruk manis,jeruk manis,100.0
+"Jeruk nipis, segar",jeruk nipis,Jeruk nipis,jeruk nipis,100.0
+"Mangga, segar",mangga,Mangga,mangga,100.0
+"Markisa, segar",markisa,Markisa,markisa,100.0
+"Melon, segar",melon,Melon,melon,100.0
+"Pepaya, segar",pepaya,Pepaya,pepaya,100.0
+"Pisang ambon, segar",pisang ambon,Pisang ambon,pisang ambon,100.0
+"Pisang kepok, segar",pisang kepok,Pisang kepok,pisang kepok,100.0
+"Pisang ketip, segar",pisang ketip,Pisang kepok,pisang kepok,83.33333333333334
+"Pisang mas, segar",pisang mas,Pisang mas,pisang mas,100.0
+"Pisang raja, segar",pisang raja,Pisang raja,pisang raja,100.0
+"Pisang ua, segar",pisang ua,Pisang raja,pisang raja,80.0
+"Rambutan, segar",rambutan,Rambutan,rambutan,100.0
+"Salak, segar",salak,Salak,salak,100.0
+"Semangka, segar",semangka,Semangka,semangka,100.0
+"Angsa, daging, segar",angsa daging,Daging asap,daging asap,86.95652173913044
+"Ayam, daging, segar",ayam daging,Daging asap,daging asap,81.81818181818181
+"Ayam, hati, segar",ayam hati,Hati ayam,hati ayam,100.0
+"Belibis, daging, segar",belibis daging,Daging babi,daging babi,80.0
+"Kambing, daging, segar",kambing daging,Daging kambing,daging kambing,100.0
+"Kerbau, daging, segar",kerbau daging,Daging kerbau,daging kerbau,100.0
+"Sapi, ginjal, segar",sapi ginjal,Ginjal sapi,ginjal sapi,100.0
+"Sapi, usus, segar",sapi usus,Usus sapi,usus sapi,100.0
+"Ikan cakalang, segar",ikan cakalang,Ikan cakalang asin,ikan cakalang asin,83.87096774193549
+"Ikan kakap, segar",ikan kakap,Ikan kakap,ikan kakap,100.0
+"Ikan kakatua, segar",ikan kakatua,Ikan kakap,ikan kakap,81.81818181818181
+"Ikan kapar, segar",ikan kapar,Ikan kakap,ikan kakap,80.0
+"Ikan lemuru, segar",ikan lemuru,Ikan lemuru,ikan lemuru,100.0
+"Ikan mas, segar",ikan emas,Ikan mas,ikan emas,100.0
+"Ikan mujahir, segar",ikan mujahir,Ikan mujair,ikan mujair,95.65217391304348
+"Ikan oci, kembung, segar",ikan oci kembung,Ikan kembung,ikan kembung,85.71428571428572
+"Ikan tembang, segar",ikan tembang,Ikan kembung,ikan kembung,83.33333333333334
+"Ikan teri, segar",ikan teri,Ikan Teri Kering,ikan teri,100.0
+"Ikan turi, segar",ikan turi,Ikan Teri Kering,ikan teri,88.88888888888889
+"Udang galah, segar",udang galah,Udang Basah,udang basah,81.81818181818181
+"Udang, besar, segar",udang besar,Udang Basah,udang basah,81.81818181818181
+"Udang, segar",udang,Udang segar,udang,100.0
+"Telur ayam kampung, segar",telur ayam kampung,Kuning telur ayam,kuning telur ayam,85.71428571428572
+"Telur ayam ras, segar",telur ayam ras,Telur Ayam,telur ayam,83.33333333333334
+"Telur bebek alabio, segar",telur bebek alabio,Telur bebek asin,telur bebek asin,82.35294117647058
+"Telur penyu, segar",telur penyu,Telur puyuh,telur puyuh,81.81818181818181
