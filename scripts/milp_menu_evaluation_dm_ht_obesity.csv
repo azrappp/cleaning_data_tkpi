@@ -1,5 +1,0 @@
-constraint,value,target_or_limit,status
-energy,1600.0000000000002,1440.0 - 1760.0,pass
-carb_min,284.55999999999995,>= 130.0,pass
-sodium_max,88.1,<= 2000.0,pass
-fiber_min,43.78,>= 40.0,pass

@@ -35,7 +35,7 @@ Kacang Merah,25,2 Sendok Makan,LN,Lauk Nabati,kacang merah,kacang merah
 Kacang Mete,15,1½ Sendok Makan,LN,Lauk Nabati,kacang mete,kacang mete
 Kacang Tanah Kupas,20,2 Sendok Makan,LN,Lauk Nabati,kacang tanah kupas,kacang tanah kupas
 Kacang Toto,20,2 Sendok Makan,LN,Lauk Nabati,kacang toto,kacang toto
-Keju Kacang Tanah,15,1 Sendok Makan,LN,Lauk Nabati,keju kacang tanah,keju kacang tanah
+Tempe kedelai,50,2 potong sedang,LN,Lauk Nabati,tempe kedelai,tempe kedelai
 Kembang Tahu,20,1 Lembar,LN,Lauk Nabati,kembang tahu,kembang tahu
 Oncom,50,2 Potong Besar,LN,Lauk Nabati,oncom,oncom
 Petai Segar,20,1 Papan/Biji Besar,LN,Lauk Nabati,petai segar,petai segar
@@ -141,18 +141,19 @@ Semangka,180,2 potong sedang,B,Buah,semangka,semangka
 Sirsak,60,½ gelas,B,Buah,sirsak,sirsak
 Srikaya,50,2 buah besar,B,Buah,srikaya,srikaya
 Strawberry,215,4 buah besar,B,Buah,strawberry,strawberry
+Gula putih,10,1 sendok makan,B,Buah,gula putih,gula putih
 Gula aren,10,1 sendok makan,B,Buah,gula aren,gula aren
-Gula kelapa,10,1 sendok makan,B,Buah,gula kelapa,gula kelapa
-Selai/jam,15,1 sendok makan,B,Buah,selai/jam,selai jam
-Madu,15,1 sendok makan,B,Buah,madu,madu
-Sirup,15,1 sendok makan,B,Buah,sirup,sirup
-Alpokat,60,½ buah besar,B,Buah,alpokat,alpokat
-Margarin jagung,5,¼ sendok teh,B,Buah,margarin jagung,margarin jagung
+Gula kelapa,10,1 sendok makan,G,Gula,gula kelapa,gula kelapa
+Selai/jam,15,1 sendok makan,G,Gula,selai/jam,selai jam
+Madu,15,1 sendok makan,G,Gula,madu,madu
+Sirup,15,1 sendok makan,G,Gula,sirup,sirup
+Alpokat,60,½ buah besar,G,Gula,alpokat,alpokat
+Margarin jagung,5,¼ sendok teh,G,Gula,margarin jagung,margarin jagung
 Mayonaise,25,2 sendok makan,G,Gula,mayonaise,mayonaise
-Minyak biji kapas,5,1 sendok teh,G,Gula,minyak biji kapas,minyak biji kapas
-Minyak matahari,5,1 sendok teh,G,Gula,minyak matahari,minyak matahari
-Minyak jagung,5,1 sendok teh,G,Gula,minyak jagung,minyak jagung
-Minyak kedelai,5,1 sendok teh,G,Gula,minyak kedelai,minyak kedelai
+Minyak biji kapas,5,1 sendok teh,M,Minyak / Lemak,minyak biji kapas,minyak biji kapas
+Minyak matahari,5,1 sendok teh,M,Minyak / Lemak,minyak matahari,minyak matahari
+Minyak jagung,5,1 sendok teh,M,Minyak / Lemak,minyak jagung,minyak jagung
+Minyak kedelai,5,1 sendok teh,M,Minyak / Lemak,minyak kedelai,minyak kedelai
 Minyak kacang tanah,5,1 sendok teh,M,Minyak / Lemak,minyak kacang tanah,minyak kacang tanah
 Minyak safflower,5,1 sendok teh,M,Minyak / Lemak,minyak safflower,minyak safflower
 Minyak zaitun,5,1 sendok teh,M,Minyak / Lemak,minyak zaitun,minyak zaitun
