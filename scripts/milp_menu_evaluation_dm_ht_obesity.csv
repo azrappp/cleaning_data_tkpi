@@ -1,5 +1,5 @@
 constraint,value,target_or_limit,status
 energy,1600.0,1440.0 - 1760.0,pass
-carb_min,239.35,>= 130.0,pass
-sodium_max,96.25,<= 2000.0,pass
-fiber_min,40.58,>= 40.0,pass
+carb_min,258.02500000000003,>= 130.0,pass
+sodium_max,104.975,<= 2000.0,pass
+fiber_min,40.730000000000004,>= 40.0,pass

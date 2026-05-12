@@ -1,165 +1,165 @@
-﻿food_name,weight_gram,urt,category_code,category_name,urt_food_name_clean,urt_food_name_match
-Bihun,50,1/2 Gelas,MP,Makanan Pokok,bihun,bihun
-Biskuit,40,4 Buah Besar,MP,Makanan Pokok,biskuit,biskuit
-Havermut,45,5½ Sendok Besar,MP,Makanan Pokok,havermut,havermut
-Jagung Segar,125,3 Buah Sedang,MP,Makanan Pokok,jagung segar,jagung segar
-Kentang,210,2 Buah Sedang,MP,Makanan Pokok,kentang,kentang
-Kentang Hitam,125,12 Biji,MP,Makanan Pokok,kentang hitam,kentang hitam
-Maizena,50,10 Sendok Makan,MP,Makanan Pokok,maizena,maizena
-Makaroni,50,1½ Gelas,MP,Makanan Pokok,makaroni,makaroni
-Mie Basah,200,2 Gelas,MP,Makanan Pokok,mie basah,mie basah
-Mie Kering,50,1 Gelas,MP,Makanan Pokok,mie kering,mie kering
-Nasi Beras Giling putih,100,3/4 Gelas,MP,Makanan Pokok,nasi beras giling putih,nasi beras giling putih
-Nasi Beras Giling Merah,100,3/4 Gelas,MP,Makanan Pokok,nasi beras giling merah,nasi beras giling merah
-Nasi Beras Giling Hitam,100,3/4 Gelas,MP,Makanan Pokok,nasi beras giling hitam,nasi beras giling hitam
-Nasi Beras ½ Giling,100,3/4 Gelas,MP,Makanan Pokok,nasi beras 1⁄2 giling,nasi beras 1⁄2 giling
-Nasi Ketan Putih,100,3/4 Gelas,MP,Makanan Pokok,nasi ketan putih,nasi ketan putih
-Roti Putih,70,3 Iris,MP,Makanan Pokok,roti putih,roti putih
-Roti Warna Coklat,70,3 Iris,MP,Makanan Pokok,roti warna coklat,roti warna coklat
-Singkong,120,1½ Potong,MP,Makanan Pokok,singkong,singkong
-Sukun,150,3 Potong Sedang,MP,Makanan Pokok,sukun,sukun
-Talas,125,1½ Biji Sedang,MP,Makanan Pokok,talas,talas
-Tape Beras Ketan,100,5 Sendok Makan,MP,Makanan Pokok,tape beras ketan,tape beras ketan
-Tape Singkong,100,1 Potong Sedang,MP,Makanan Pokok,tape singkong,tape singkong
-Tepung Tapioka,50,8 Sendok Makan,MP,Makanan Pokok,tepung tapioka,tepung tapioka
-Tepung Beras,50,8 Sendok Makan,MP,Makanan Pokok,tepung beras,tepung beras
-Tepung Hunkwe,50,10 Sendok Makan,MP,Makanan Pokok,tepung hunkwe,tepung hunkwe
-Tepung Sagu,50,8 Sendok Makan,MP,Makanan Pokok,tepung sagu,tepung sagu
-Tepung Singkong,50,5 Sendok Makan,MP,Makanan Pokok,tepung singkong,tepung singkong
-Tepung Terigu,50,5 Sendok Makan,MP,Makanan Pokok,tepung terigu,tepung terigu
-Ubi Jalar Kuning,135,1 Biji Sedang,MP,Makanan Pokok,ubi jalar kuning,ubi jalar kuning
-Kerupuk Udang/Ikan,30,3 Biji Sedang,MP,Makanan Pokok,kerupuk udang/ikan,kerupuk udang ikan
-Kacang Hijau,25,2 Sendok Makan,LN,Lauk Nabati,kacang hijau,kacang hijau
-Kacang Kedelai,25,2 Sendok Makan,LN,Lauk Nabati,kacang kedelai,kacang kedelai
-Kacang Merah,25,2 Sendok Makan,LN,Lauk Nabati,kacang merah,kacang merah
-Kacang Mete,15,1½ Sendok Makan,LN,Lauk Nabati,kacang mete,kacang mete
-Kacang Tanah Kupas,20,2 Sendok Makan,LN,Lauk Nabati,kacang tanah kupas,kacang tanah kupas
-Kacang Toto,20,2 Sendok Makan,LN,Lauk Nabati,kacang toto,kacang toto
-Tempe kedelai,50,2 potong sedang,LN,Lauk Nabati,tempe kedelai,tempe kedelai
-Kembang Tahu,20,1 Lembar,LN,Lauk Nabati,kembang tahu,kembang tahu
-Oncom,50,2 Potong Besar,LN,Lauk Nabati,oncom,oncom
-Petai Segar,20,1 Papan/Biji Besar,LN,Lauk Nabati,petai segar,petai segar
-Tahu,100,2 Potong Sedang,LN,Lauk Nabati,tahu,tahu
-Sari Kedelai,185,1 gelas,LN,Lauk Nabati,sari kedelai,sari kedelai
-Daging sapi,35,1 potong sedang,LN,Lauk Nabati,daging sapi,daging sapi
-Daging ayam,40,1 potong sedang,LH,Lauk Hewani,daging ayam,daging ayam
-Hati Sapi,50,1 potong sedang,LH,Lauk Hewani,hati sapi,hati sapi
-Ikan Asin,15,1 potong kecil,LH,Lauk Hewani,ikan asin,ikan asin
-Ikan Teri Kering,20,1 sendok makan,LH,Lauk Hewani,ikan teri kering,ikan teri kering
-Telur Ayam,55,1 butir,LH,Lauk Hewani,telur ayam,telur ayam
-Udang Basah,35,5 ekor sedang,LH,Lauk Hewani,udang basah,udang basah
-Susu sapi,200,1 gelas,SS,Susu,susu sapi,susu sapi
-Susu kerbau,100,1/2 gelas,SS,Susu,susu kerbau,susu kerbau
-Susu kambing,185,3/4 gelas,SS,Susu,susu kambing,susu kambing
-Tepung sari kedele,20,3 sendok makan,LH,Lauk Hewani,tepung sari kedele,tepung sari kedele
-Tepung susu whole,20,4 sendok makan,LH,Lauk Hewani,tepung susu whole,tepung susu whole
-Tepung susu krim,20,4 sendok makan,LH,Lauk Hewani,tepung susu krim,tepung susu krim
-Babat,40,1 potong sedang,LH,Lauk Hewani,babat,babat
-Cumi-cumi,45,1 ekor kecil,LH,Lauk Hewani,cumi-cumi,cumi-cumi
-Daging asap,20,1 lembar,LH,Lauk Hewani,daging asap,daging asap
-Daging ayam,40,1 potong sedang,LH,Lauk Hewani,daging ayam,daging ayam
-Daging kerbau,35,1 potong sedang,LH,Lauk Hewani,daging kerbau,daging kerbau
-Dendeng sapi,15,1 potong sedang,LH,Lauk Hewani,dendeng sapi,dendeng sapi
-Gabus kering,10,1 ekor kecil,LH,Lauk Hewani,gabus kering,gabus kering
-Hati sapi,50,1 potong sedang,LH,Lauk Hewani,hati sapi,hati sapi
-Ikan asin kering,15,1 potong sedang,LH,Lauk Hewani,ikan asin kering,ikan asin kering
-Ikan kakap,35,1/3 ekor besar,LH,Lauk Hewani,ikan kakap,ikan kakap
-Ikan kembung,30,1/3 ekor sedang,LH,Lauk Hewani,ikan kembung,ikan kembung
-Ikan lele,40,1/3 ekor sedang,LH,Lauk Hewani,ikan lele,ikan lele
-Ikan mas,45,1/3 ekor sedang,LH,Lauk Hewani,ikan mas,ikan mas
-Ikan mujair,30,1/3 ekor sedang,LH,Lauk Hewani,ikan mujair,ikan mujair
-Ikan peda,35,1 ekor kecil,LH,Lauk Hewani,ikan peda,ikan peda
-Ikan pindang,25,1/2 ekor sedang,LH,Lauk Hewani,ikan pindang,ikan pindang
-Ikan segar,40,1 potong sedang,LH,Lauk Hewani,ikan segar,ikan segar
-Ikan teri kering,20,1 sendok makan,LH,Lauk Hewani,ikan teri kering,ikan teri kering
-Ikan cakalang asin,20,1 potong sedang,LH,Lauk Hewani,ikan cakalang asin,ikan cakalang asin
-Kerang,90,1/2 gelas,LH,Lauk Hewani,kerang,kerang
-Ikan lemuru,35,1 potong sedang,LH,Lauk Hewani,ikan lemuru,ikan lemuru
-Putih telur ayam,65,2½ butir,LH,Lauk Hewani,putih telur ayam,putih telur ayam
-Rebon kering,10,2 sendok makan,LH,Lauk Hewani,rebon kering,rebon kering
-Rebon basah,45,2 sendok makan,LH,Lauk Hewani,rebon basah,rebon basah
-Selar kering,20,1 ekor,LH,Lauk Hewani,selar kering,selar kering
-Sepat kering,20,1 potong sedang,LH,Lauk Hewani,sepat kering,sepat kering
-Teri nasi,20,1/3 gelas,LH,Lauk Hewani,teri nasi,teri nasi
-Udang segar,35,5 ekor sedang,LH,Lauk Hewani,udang segar,udang segar
-Bakso,170,10 biji sedang,LH,Lauk Hewani,bakso,bakso
-Daging kambing,40,1 potong sedang,LH,Lauk Hewani,daging kambing,daging kambing
-Daging sapi,35,1 potong sedang,LH,Lauk Hewani,daging sapi,daging sapi
-Ginjal sapi,45,1 potong besar,LH,Lauk Hewani,ginjal sapi,ginjal sapi
-Hati ayam,30,1 buah sedang,LH,Lauk Hewani,hati ayam,hati ayam
-Hati sapi,50,1 potong sedang,LH,Lauk Hewani,hati sapi,hati sapi
-Otak,65,1 potong besar,LH,Lauk Hewani,otak,otak
-Telur ayam,55,1 butir,LH,Lauk Hewani,telur ayam,telur ayam
-Telur bebek asin,50,1 butir,LH,Lauk Hewani,telur bebek asin,telur bebek asin
-Telur puyuh,55,5 butir,LH,Lauk Hewani,telur puyuh,telur puyuh
-Usus sapi,50,1 potong besar,LH,Lauk Hewani,usus sapi,usus sapi
-Bebek,45,1 potong sedang,LH,Lauk Hewani,bebek,bebek
-Belut,45,3 ekor,LH,Lauk Hewani,belut,belut
-Kornet daging sapi,45,3 sendok makan,LH,Lauk Hewani,kornet daging sapi,kornet daging sapi
-Ayam dengan kulit,40,1 potong sedang,LH,Lauk Hewani,ayam dengan kulit,ayam dengan kulit
-Daging babi,50,1 potong sedang,LH,Lauk Hewani,daging babi,daging babi
-Ham,40,1/2 potong kecil,LH,Lauk Hewani,ham,ham
-Sardencis,35,1/2 potong,LH,Lauk Hewani,sardencis,sardencis
-Sosis,50,1/2 potong,LH,Lauk Hewani,sosis,sosis
-Kuning telur ayam,45,4 butir,LH,Lauk Hewani,kuning telur ayam,kuning telur ayam
-Telur bebek,55,1 butir,LH,Lauk Hewani,telur bebek,telur bebek
-Alpokat,50,½ buah besar,LH,Lauk Hewani,alpokat,alpokat
-Anggur,165,20 buah sedang,LH,Lauk Hewani,anggur,anggur
-Apel merah,85,1 buah kecil,LH,Lauk Hewani,apel merah,apel merah
-Apel malang,75,1 buah sedang,LH,Lauk Hewani,apel malang,apel malang
-Belimbing,125-140,1 buah besar,B,Buah,belimbing,belimbing
-Blewah,70,1 potong sedang,B,Buah,blewah,blewah
-Duku,80,10-16 buah sedang,B,Buah,duku,duku
-Durian,35,2 biji besar,B,Buah,durian,durian
-Jambu air,100,2 buah sedang,B,Buah,jambu air,jambu air
-Jambu biji,100,1 buah besar,B,Buah,jambu biji,jambu biji
-Jambu bol,90,1 buah kecil,B,Buah,jambu bol,jambu bol
-Jeruk bali,105,1 potong,B,Buah,jeruk bali,jeruk bali
-Jeruk garut,115,1 buah sedang,B,Buah,jeruk garut,jeruk garut
-Jeruk manis,100,2 buah sedang,B,Buah,jeruk manis,jeruk manis
-Jeruk nipis,135,1 ½ gelas,B,Buah,jeruk nipis,jeruk nipis
-Kedondong,100/120,2 buah sedang/besar,B,Buah,kedondong,kedondong
-Kesemek,65,1 ½ buah,B,Buah,kesemek,kesemek
-Kurma,15,3 buah,B,Buah,kurma,kurma
-Leci,75,10 buah,B,Buah,leci,leci
-Mangga,90,¾ buah besar,B,Buah,mangga,mangga
-Manggis,80,2 buah sedang,B,Buah,manggis,manggis
-Markisa,35,¾ buah sedang,B,Buah,markisa,markisa
-Melon,90,1 potong,B,Buah,melon,melon
-Nangka masak,50,3 biji sedang,B,Buah,nangka masak,nangka masak
-Nenas,85,¼ buah sedang,B,Buah,nenas,nenas
-Pear,85,½ buah sedang,B,Buah,pear,pear
-Pepaya,100-190,1 potong besar,B,Buah,pepaya,pepaya
-Pisang ambon,50,1 buah sedang,B,Buah,pisang ambon,pisang ambon
-Pisang kepok,45,1 buah,B,Buah,pisang kepok,pisang kepok
-Pisang mas,40,2 buah,B,Buah,pisang mas,pisang mas
-Pisang raja,40,2 buah kecil,B,Buah,pisang raja,pisang raja
-Rambutan,75,8 buah,B,Buah,rambutan,rambutan
-Sawo,50,1 buah sedang,B,Buah,sawo,sawo
-Salak,65,2 buah sedang,B,Buah,salak,salak
-Semangka,180,2 potong sedang,B,Buah,semangka,semangka
-Sirsak,60,½ gelas,B,Buah,sirsak,sirsak
-Srikaya,50,2 buah besar,B,Buah,srikaya,srikaya
-Strawberry,215,4 buah besar,B,Buah,strawberry,strawberry
-Gula putih,10,1 sendok makan,B,Buah,gula putih,gula putih
-Gula aren,10,1 sendok makan,B,Buah,gula aren,gula aren
-Gula kelapa,10,1 sendok makan,G,Gula,gula kelapa,gula kelapa
-Selai/jam,15,1 sendok makan,G,Gula,selai/jam,selai jam
-Madu,15,1 sendok makan,G,Gula,madu,madu
-Sirup,15,1 sendok makan,G,Gula,sirup,sirup
-Alpokat,60,½ buah besar,G,Gula,alpokat,alpokat
-Margarin jagung,5,¼ sendok teh,G,Gula,margarin jagung,margarin jagung
-Mayonaise,25,2 sendok makan,G,Gula,mayonaise,mayonaise
-Minyak biji kapas,5,1 sendok teh,M,Minyak / Lemak,minyak biji kapas,minyak biji kapas
-Minyak matahari,5,1 sendok teh,M,Minyak / Lemak,minyak matahari,minyak matahari
-Minyak jagung,5,1 sendok teh,M,Minyak / Lemak,minyak jagung,minyak jagung
-Minyak kedelai,5,1 sendok teh,M,Minyak / Lemak,minyak kedelai,minyak kedelai
-Minyak kacang tanah,5,1 sendok teh,M,Minyak / Lemak,minyak kacang tanah,minyak kacang tanah
-Minyak safflower,5,1 sendok teh,M,Minyak / Lemak,minyak safflower,minyak safflower
-Minyak zaitun,5,1 sendok teh,M,Minyak / Lemak,minyak zaitun,minyak zaitun
-Mentega,15,1sendok makan,M,Minyak / Lemak,mentega,mentega
-Santan (peras),40,1/3 gelas,M,Minyak / Lemak,santan (peras),santan (peras)
-Kelapa,15,1potong kecil,M,Minyak / Lemak,kelapa,kelapa
-Keju krim,15,1 potong kecil,M,Minyak / Lemak,keju krim,keju krim
-Minyak kelapa,5,1 sendok teh,M,Minyak / Lemak,minyak kelapa,minyak kelapa
-Minyak sawit,5,1 sendok teh,M,Minyak / Lemak,minyak sawit,minyak sawit
+﻿food_name,weight_gram,urt,category_code,category_name,urt_qty,urt_unit,urt_food_name_clean,urt_food_name_match
+Bihun,50,1/2 Gelas,MP,Makanan Pokok,0.5,Gelas,bihun,bihun
+Biskuit,40,4 Buah Besar,MP,Makanan Pokok,4.0,Buah Besar,biskuit,biskuit
+Havermut,45,5½ Sendok Besar,MP,Makanan Pokok,5.5,Sendok Besar,havermut,havermut
+Jagung Segar,125,3 Buah Sedang,MP,Makanan Pokok,3.0,Buah Sedang,jagung segar,jagung segar
+Kentang,210,2 Buah Sedang,MP,Makanan Pokok,2.0,Buah Sedang,kentang,kentang
+Kentang Hitam,125,12 Biji,MP,Makanan Pokok,12.0,Biji,kentang hitam,kentang hitam
+Maizena,50,10 Sendok Makan,MP,Makanan Pokok,10.0,Sendok Makan,maizena,maizena
+Makaroni,50,1½ Gelas,MP,Makanan Pokok,1.5,Gelas,makaroni,makaroni
+Mie Basah,200,2 Gelas,MP,Makanan Pokok,2.0,Gelas,mie basah,mie basah
+Mie Kering,50,1 Gelas,MP,Makanan Pokok,1.0,Gelas,mie kering,mie kering
+Nasi Beras Giling putih,100,3/4 Gelas,MP,Makanan Pokok,0.75,Gelas,nasi beras giling putih,nasi beras giling putih
+Nasi Beras Giling Merah,100,3/4 Gelas,MP,Makanan Pokok,0.75,Gelas,nasi beras giling merah,nasi beras giling merah
+Nasi Beras Giling Hitam,100,3/4 Gelas,MP,Makanan Pokok,0.75,Gelas,nasi beras giling hitam,nasi beras giling hitam
+Nasi Beras ½ Giling,100,3/4 Gelas,MP,Makanan Pokok,0.75,Gelas,nasi beras 1⁄2 giling,nasi beras 1⁄2 giling
+Nasi Ketan Putih,100,3/4 Gelas,MP,Makanan Pokok,0.75,Gelas,nasi ketan putih,nasi ketan putih
+Roti Putih,70,3 Iris,MP,Makanan Pokok,3.0,Iris,roti putih,roti putih
+Roti Warna Coklat,70,3 Iris,MP,Makanan Pokok,3.0,Iris,roti warna coklat,roti warna coklat
+Singkong,120,1½ Potong,MP,Makanan Pokok,1.5,Potong,singkong,singkong
+Sukun,150,3 Potong Sedang,MP,Makanan Pokok,3.0,Potong Sedang,sukun,sukun
+Talas,125,1½ Biji Sedang,MP,Makanan Pokok,1.5,Biji Sedang,talas,talas
+Tape Beras Ketan,100,5 Sendok Makan,MP,Makanan Pokok,5.0,Sendok Makan,tape beras ketan,tape beras ketan
+Tape Singkong,100,1 Potong Sedang,MP,Makanan Pokok,1.0,Potong Sedang,tape singkong,tape singkong
+Tepung Tapioka,50,8 Sendok Makan,MP,Makanan Pokok,8.0,Sendok Makan,tepung tapioka,tepung tapioka
+Tepung Beras,50,8 Sendok Makan,MP,Makanan Pokok,8.0,Sendok Makan,tepung beras,tepung beras
+Tepung Hunkwe,50,10 Sendok Makan,MP,Makanan Pokok,10.0,Sendok Makan,tepung hunkwe,tepung hunkwe
+Tepung Sagu,50,8 Sendok Makan,MP,Makanan Pokok,8.0,Sendok Makan,tepung sagu,tepung sagu
+Tepung Singkong,50,5 Sendok Makan,MP,Makanan Pokok,5.0,Sendok Makan,tepung singkong,tepung singkong
+Tepung Terigu,50,5 Sendok Makan,MP,Makanan Pokok,5.0,Sendok Makan,tepung terigu,tepung terigu
+Ubi Jalar Kuning,135,1 Biji Sedang,MP,Makanan Pokok,1.0,Biji Sedang,ubi jalar kuning,ubi jalar kuning
+Kerupuk Udang/Ikan,30,3 Biji Sedang,MP,Makanan Pokok,3.0,Biji Sedang,kerupuk udang/ikan,kerupuk udang ikan
+Kacang Hijau,25,2 Sendok Makan,LN,Lauk Nabati,2.0,Sendok Makan,kacang hijau,kacang hijau
+Kacang Kedelai,25,2 Sendok Makan,LN,Lauk Nabati,2.0,Sendok Makan,kacang kedelai,kacang kedelai
+Kacang Merah,25,2 Sendok Makan,LN,Lauk Nabati,2.0,Sendok Makan,kacang merah,kacang merah
+Kacang Mete,15,1½ Sendok Makan,LN,Lauk Nabati,1.5,Sendok Makan,kacang mete,kacang mete
+Kacang Tanah Kupas,20,2 Sendok Makan,LN,Lauk Nabati,2.0,Sendok Makan,kacang tanah kupas,kacang tanah kupas
+Kacang Toto,20,2 Sendok Makan,LN,Lauk Nabati,2.0,Sendok Makan,kacang toto,kacang toto
+Tempe kedelai,50,2 potong sedang,LN,Lauk Nabati,2.0,potong sedang,tempe kedelai,tempe kedelai
+Kembang Tahu,20,1 Lembar,LN,Lauk Nabati,1.0,Lembar,kembang tahu,kembang tahu
+Oncom,50,2 Potong Besar,LN,Lauk Nabati,2.0,Potong Besar,oncom,oncom
+Petai Segar,20,1 Papan/Biji Besar,LN,Lauk Nabati,1.0,Papan/Biji Besar,petai segar,petai segar
+Tahu,100,2 Potong Sedang,LN,Lauk Nabati,2.0,Potong Sedang,tahu,tahu
+Sari Kedelai,185,1 gelas,LN,Lauk Nabati,1.0,gelas,sari kedelai,sari kedelai
+Daging sapi,35,1 potong sedang,LN,Lauk Nabati,1.0,potong sedang,daging sapi,daging sapi
+Daging ayam,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging ayam,daging ayam
+Hati Sapi,50,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,hati sapi,hati sapi
+Ikan Asin,15,1 potong kecil,LH,Lauk Hewani,1.0,potong kecil,ikan asin,ikan asin
+Ikan Teri Kering,20,1 sendok makan,LH,Lauk Hewani,1.0,sendok makan,ikan teri kering,ikan teri kering
+Telur Ayam,55,1 butir,LH,Lauk Hewani,1.0,butir,telur ayam,telur ayam
+Udang Basah,35,5 ekor sedang,LH,Lauk Hewani,5.0,ekor sedang,udang basah,udang basah
+Susu sapi,200,1 gelas,SS,Susu,1.0,gelas,susu sapi,susu sapi
+Susu kerbau,100,1/2 gelas,SS,Susu,0.5,gelas,susu kerbau,susu kerbau
+Susu kambing,185,3/4 gelas,SS,Susu,0.75,gelas,susu kambing,susu kambing
+Tepung sari kedele,20,3 sendok makan,LH,Lauk Hewani,3.0,sendok makan,tepung sari kedele,tepung sari kedele
+Tepung susu whole,20,4 sendok makan,LH,Lauk Hewani,4.0,sendok makan,tepung susu whole,tepung susu whole
+Tepung susu krim,20,4 sendok makan,LH,Lauk Hewani,4.0,sendok makan,tepung susu krim,tepung susu krim
+Babat,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,babat,babat
+Cumi-cumi,45,1 ekor kecil,LH,Lauk Hewani,1.0,ekor kecil,cumi-cumi,cumi-cumi
+Daging asap,20,1 lembar,LH,Lauk Hewani,1.0,lembar,daging asap,daging asap
+Daging ayam,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging ayam,daging ayam
+Daging kerbau,35,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging kerbau,daging kerbau
+Dendeng sapi,15,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,dendeng sapi,dendeng sapi
+Gabus kering,10,1 ekor kecil,LH,Lauk Hewani,1.0,ekor kecil,gabus kering,gabus kering
+Hati sapi,50,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,hati sapi,hati sapi
+Ikan asin kering,15,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,ikan asin kering,ikan asin kering
+Ikan kakap,35,1/3 ekor besar,LH,Lauk Hewani,0.3333333333333333,ekor besar,ikan kakap,ikan kakap
+Ikan kembung,30,1/3 ekor sedang,LH,Lauk Hewani,0.3333333333333333,ekor sedang,ikan kembung,ikan kembung
+Ikan lele,40,1/3 ekor sedang,LH,Lauk Hewani,0.3333333333333333,ekor sedang,ikan lele,ikan lele
+Ikan mas,45,1/3 ekor sedang,LH,Lauk Hewani,0.3333333333333333,ekor sedang,ikan mas,ikan mas
+Ikan mujair,30,1/3 ekor sedang,LH,Lauk Hewani,0.3333333333333333,ekor sedang,ikan mujair,ikan mujair
+Ikan peda,35,1 ekor kecil,LH,Lauk Hewani,1.0,ekor kecil,ikan peda,ikan peda
+Ikan pindang,25,1/2 ekor sedang,LH,Lauk Hewani,0.5,ekor sedang,ikan pindang,ikan pindang
+Ikan segar,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,ikan segar,ikan segar
+Ikan teri kering,20,1 sendok makan,LH,Lauk Hewani,1.0,sendok makan,ikan teri kering,ikan teri kering
+Ikan cakalang asin,20,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,ikan cakalang asin,ikan cakalang asin
+Kerang,90,1/2 gelas,LH,Lauk Hewani,0.5,gelas,kerang,kerang
+Ikan lemuru,35,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,ikan lemuru,ikan lemuru
+Putih telur ayam,65,2½ butir,LH,Lauk Hewani,2.5,butir,putih telur ayam,putih telur ayam
+Rebon kering,10,2 sendok makan,LH,Lauk Hewani,2.0,sendok makan,rebon kering,rebon kering
+Rebon basah,45,2 sendok makan,LH,Lauk Hewani,2.0,sendok makan,rebon basah,rebon basah
+Selar kering,20,1 ekor,LH,Lauk Hewani,1.0,ekor,selar kering,selar kering
+Sepat kering,20,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,sepat kering,sepat kering
+Teri nasi,20,1/3 gelas,LH,Lauk Hewani,0.3333333333333333,gelas,teri nasi,teri nasi
+Udang segar,35,5 ekor sedang,LH,Lauk Hewani,5.0,ekor sedang,udang segar,udang segar
+Bakso,170,10 biji sedang,LH,Lauk Hewani,10.0,biji sedang,bakso,bakso
+Daging kambing,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging kambing,daging kambing
+Daging sapi,35,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging sapi,daging sapi
+Ginjal sapi,45,1 potong besar,LH,Lauk Hewani,1.0,potong besar,ginjal sapi,ginjal sapi
+Hati ayam,30,1 buah sedang,LH,Lauk Hewani,1.0,buah sedang,hati ayam,hati ayam
+Hati sapi,50,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,hati sapi,hati sapi
+Otak,65,1 potong besar,LH,Lauk Hewani,1.0,potong besar,otak,otak
+Telur ayam,55,1 butir,LH,Lauk Hewani,1.0,butir,telur ayam,telur ayam
+Telur bebek asin,50,1 butir,LH,Lauk Hewani,1.0,butir,telur bebek asin,telur bebek asin
+Telur puyuh,55,5 butir,LH,Lauk Hewani,5.0,butir,telur puyuh,telur puyuh
+Usus sapi,50,1 potong besar,LH,Lauk Hewani,1.0,potong besar,usus sapi,usus sapi
+Bebek,45,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,bebek,bebek
+Belut,45,3 ekor,LH,Lauk Hewani,3.0,ekor,belut,belut
+Kornet daging sapi,45,3 sendok makan,LH,Lauk Hewani,3.0,sendok makan,kornet daging sapi,kornet daging sapi
+Ayam dengan kulit,40,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,ayam dengan kulit,ayam dengan kulit
+Daging babi,50,1 potong sedang,LH,Lauk Hewani,1.0,potong sedang,daging babi,daging babi
+Ham,40,1/2 potong kecil,LH,Lauk Hewani,0.5,potong kecil,ham,ham
+Sardencis,35,1/2 potong,LH,Lauk Hewani,0.5,potong,sardencis,sardencis
+Sosis,50,1/2 potong,LH,Lauk Hewani,0.5,potong,sosis,sosis
+Kuning telur ayam,45,4 butir,LH,Lauk Hewani,4.0,butir,kuning telur ayam,kuning telur ayam
+Telur bebek,55,1 butir,LH,Lauk Hewani,1.0,butir,telur bebek,telur bebek
+Alpokat,50,½ buah besar,LH,Lauk Hewani,0.5,buah besar,alpokat,alpokat
+Anggur,165,20 buah sedang,LH,Lauk Hewani,20.0,buah sedang,anggur,anggur
+Apel merah,85,1 buah kecil,LH,Lauk Hewani,1.0,buah kecil,apel merah,apel merah
+Apel malang,75,1 buah sedang,LH,Lauk Hewani,1.0,buah sedang,apel malang,apel malang
+Belimbing,125-140,1 buah besar,B,Buah,1.0,buah besar,belimbing,belimbing
+Blewah,70,1 potong sedang,B,Buah,1.0,potong sedang,blewah,blewah
+Duku,80,14 buah sedang,B,Buah,14.0,buah sedang,duku,duku
+Durian,35,2 biji besar,B,Buah,2.0,biji besar,durian,durian
+Jambu air,100,2 buah sedang,B,Buah,2.0,buah sedang,jambu air,jambu air
+Jambu biji,100,1 buah besar,B,Buah,1.0,buah besar,jambu biji,jambu biji
+Jambu bol,90,1 buah kecil,B,Buah,1.0,buah kecil,jambu bol,jambu bol
+Jeruk bali,105,1 potong,B,Buah,1.0,potong,jeruk bali,jeruk bali
+Jeruk garut,115,1 buah sedang,B,Buah,1.0,buah sedang,jeruk garut,jeruk garut
+Jeruk manis,100,2 buah sedang,B,Buah,2.0,buah sedang,jeruk manis,jeruk manis
+Jeruk nipis,135,1 ½ gelas,B,Buah,1.5,gelas,jeruk nipis,jeruk nipis
+Kedondong,100/120,2 buah sedang/besar,B,Buah,2.0,buah sedang/besar,kedondong,kedondong
+Kesemek,65,1 ½ buah,B,Buah,1.5,buah,kesemek,kesemek
+Kurma,15,3 buah,B,Buah,3.0,buah,kurma,kurma
+Leci,75,10 buah,B,Buah,10.0,buah,leci,leci
+Mangga,90,¾ buah besar,B,Buah,0.75,buah besar,mangga,mangga
+Manggis,80,2 buah sedang,B,Buah,2.0,buah sedang,manggis,manggis
+Markisa,35,¾ buah sedang,B,Buah,0.75,buah sedang,markisa,markisa
+Melon,90,1 potong,B,Buah,1.0,potong,melon,melon
+Nangka masak,50,3 biji sedang,B,Buah,3.0,biji sedang,nangka masak,nangka masak
+Nenas,85,¼ buah sedang,B,Buah,0.25,buah sedang,nenas,nenas
+Pear,85,½ buah sedang,B,Buah,0.5,buah sedang,pear,pear
+Pepaya,100-190,1 potong besar,B,Buah,1.0,potong besar,pepaya,pepaya
+Pisang ambon,50,1 buah sedang,B,Buah,1.0,buah sedang,pisang ambon,pisang ambon
+Pisang kepok,45,1 buah,B,Buah,1.0,buah,pisang kepok,pisang kepok
+Pisang mas,40,2 buah,B,Buah,2.0,buah,pisang mas,pisang mas
+Pisang raja,40,2 buah kecil,B,Buah,2.0,buah kecil,pisang raja,pisang raja
+Rambutan,75,8 buah,B,Buah,8.0,buah,rambutan,rambutan
+Sawo,50,1 buah sedang,B,Buah,1.0,buah sedang,sawo,sawo
+Salak,65,2 buah sedang,B,Buah,2.0,buah sedang,salak,salak
+Semangka,180,2 potong sedang,B,Buah,2.0,potong sedang,semangka,semangka
+Sirsak,60,½ gelas,B,Buah,0.5,gelas,sirsak,sirsak
+Srikaya,50,2 buah besar,B,Buah,2.0,buah besar,srikaya,srikaya
+Strawberry,215,4 buah besar,B,Buah,4.0,buah besar,strawberry,strawberry
+Gula putih,10,1 sendok makan,B,Buah,1.0,sendok makan,gula putih,gula putih
+Gula aren,10,1 sendok makan,B,Buah,1.0,sendok makan,gula aren,gula aren
+Gula kelapa,10,1 sendok makan,G,Gula,1.0,sendok makan,gula kelapa,gula kelapa
+Selai/jam,15,1 sendok makan,G,Gula,1.0,sendok makan,selai/jam,selai jam
+Madu,15,1 sendok makan,G,Gula,1.0,sendok makan,madu,madu
+Sirup,15,1 sendok makan,G,Gula,1.0,sendok makan,sirup,sirup
+Alpokat,60,½ buah besar,G,Gula,0.5,buah besar,alpokat,alpokat
+Margarin jagung,5,¼ sendok teh,G,Gula,0.25,sendok teh,margarin jagung,margarin jagung
+Mayonaise,25,2 sendok makan,G,Gula,2.0,sendok makan,mayonaise,mayonaise
+Minyak biji kapas,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak biji kapas,minyak biji kapas
+Minyak matahari,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak matahari,minyak matahari
+Minyak jagung,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak jagung,minyak jagung
+Minyak kedelai,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak kedelai,minyak kedelai
+Minyak kacang tanah,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak kacang tanah,minyak kacang tanah
+Minyak safflower,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak safflower,minyak safflower
+Minyak zaitun,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak zaitun,minyak zaitun
+Mentega,15,1 sendok makan,M,Minyak / Lemak,1.0,sendok makan,mentega,mentega
+Santan (peras),40,1/3 gelas,M,Minyak / Lemak,0.3333333333333333,gelas,santan (peras),santan (peras)
+Kelapa,15,1potong kecil,M,Minyak / Lemak,1.0,potong kecil,kelapa,kelapa
+Keju krim,15,1 potong kecil,M,Minyak / Lemak,1.0,potong kecil,keju krim,keju krim
+Minyak kelapa,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak kelapa,minyak kelapa
+Minyak sawit,5,1 sendok teh,M,Minyak / Lemak,1.0,sendok teh,minyak sawit,minyak sawit
